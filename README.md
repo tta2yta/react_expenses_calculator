@@ -1,5 +1,41 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+A web based application developed using React . An iterative and user friendly expense or budject calculator.
+
+## Desktop, Tablet, Mobile
+
+![screenshot](./public/img-budject-cal.jpg)
+
+
+## Live Demo Deployed in Heroku
+https://budject-calc.herokuapp.com/
+
+## Author
+
+👤 **Tedros Tesfay**
+
+- Github: [tta2yta](https://github.com/tta2yta)
+- Email: tta2yta@gmail.com
+
+👤
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the <a href="https://github.com/tta2yta/gergsum_resort/issues" target="_blank">issues page</a>.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
